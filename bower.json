@@ -1,0 +1,29 @@
+{
+  "name": "npwcore-message",
+  "main": "./npwcore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/npw-project/npwcore-message",
+  "authors": [
+    "npw"
+  ],
+  "description": "NewPowerCoin Message Verification and Signing for Npwcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "newpowercoin",
+    "npwcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
